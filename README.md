@@ -16,9 +16,115 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-<div>
-    <img src="res/index.svg" alt="languages and tools">
-</div>
+
+<table>
+	<tr>
+        <td align="center" width="96">
+            <a href="">
+        	    <img src="res/python.svg" alt="python" width="48" height="48">
+            </a>
+            <br>   Python
+    	</td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/html.svg" alt="html" width="48" height="48">
+            </a>
+            <br> HTML
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/css.svg" alt="css" width="48" height="48">
+            </a>
+            <br> CSS
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/sass.svg" alt="sass" width="48" height="48">
+            </a>
+            <br> SASS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/git.svg" alt="git" width="48" height="48">
+            </a>
+            <br> GIT
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/selenium.svg" alt="selenium" width="48" height="48">
+            </a>
+            <br> Selenium
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/vuejs.svg" alt="vuejs" width="48" height="48">
+            </a>
+            <br> Vue.js
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/nodejs.svg" alt="nodejs" width="48" height="48">
+            </a>
+            <br> Node.js
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/postgresql.svg" alt="postgresql" width="48" height="48">
+            </a>
+            <br> PostgreSQL
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/mongodb.svg" alt="mongodb" width="48" height="48">
+            </a>
+            <br> MongoDB
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/redis.svg" alt="redis" width="48" height="48">
+            </a>
+            <br> Redis
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/oracle.svg" alt="oracle" width="48" height="48">
+            </a>
+            <br> Oracle
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/gcloud.svg" alt="gcloud" width="48" height="48">
+            </a>
+            <br> GCP
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/firebase.svg" alt="firebase" width="48" height="48">
+            </a>
+            <br> Firebase
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/aws.svg" alt="aws" width="48" height="48">
+            </a>
+            <br> AWS
+        </td>
+        <td align="center" width="96">
+            <a href="">
+                <img src="res/heroku.svg" alt="heroku" width="48" height="48">
+            </a>
+            <br> Heroku
+        </td>
+    </tr>
+</table>
+
+---
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
